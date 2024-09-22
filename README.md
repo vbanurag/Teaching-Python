@@ -10,3 +10,5 @@ Repository of all my python tutorials for the classes taken at IISc for Online M
 * Distributed ML
 * Python-Libraries
 
+New File structure
+
